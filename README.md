@@ -2,7 +2,16 @@
 
 <h1 align="center">Hi there 👋, I'm Zevarda</h1>
 <p align="center">
-   Lua Developer | FiveM Scripting | Game Mods
+   Lua Developer | FiveM Scripting | Game Mods | UI/UX Designer | Graphic Designer | JavaScript Programmer | Android Developer | Teacher
+</p>
+
+## About Me  
+
+<p align="center">
+I'm a passionate <b>developer and designer</b> who loves to combine creativity with functionality.  
+With experience in <b>UI/UX design, graphic design, and programming</b> (JavaScript, Android, Lua for FiveM), I focus on building digital experiences that are not only efficient but also visually engaging.  
+Beyond coding and design, I also share my knowledge as a <b>teacher</b>, helping others to grow in both technical and creative fields.  
+My journey is all about continuous learning, collaboration, and pushing the boundaries of what's possible in tech and design.
 </p>
 
 
